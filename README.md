@@ -9,5 +9,12 @@ flutter pub get
 Run the Project:
 flutter run
 
+Run in Google Chrome:
+flutter run -d chrome
+
+Run in Microsoft Edge:
+flutter run -d edge
+
+
 
 
