@@ -29,7 +29,7 @@ class ApiService extends GetxController {
     }
   }
 
-  // 🔥 FIXED SEARCH FUNCTION
+  //  FIXED SEARCH FUNCTION
   void search(String query) {
     if (query.isEmpty) {
       searchpost.assignAll(posts);
